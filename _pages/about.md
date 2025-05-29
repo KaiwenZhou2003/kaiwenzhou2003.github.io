@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS PhD student at the Advanced Computing and Emerging Service (ACES) Laboratory, [Zhejiang University](https://www.zju.edu.cn/), under the supervision of Professor [Liqiang Lu](https://liqianglu-zju.github.io/). Before this, I received the B.S. degree from the College of Computer Science and Technology, [Wuhan University of Technology](https://www.whut.edu.cn/) in 2024.
+I am a first-year CS PhD student at the Advanced Computing and Emerging Service (ACES) Laboratory, [Zhejiang University](https://www.zju.edu.cn/), under the supervision of Professor [Liqiang Lu](https://liqianglu-zju.github.io/). Before this, I received the B.S. degree from the College of Computer Science and Technology, [Wuhan University of Technology](https://www.whut.edu.cn/) in 2024, under the supervision of Professor [Fang Luo](http://cst.whut.edu.cn/xygk/szdw/201505/t20150527_876904.shtml).
 
 My current research interests include Quantum Computer Architecture, Quantum Error Correction, and Domain-Specific Accelerator.
 
