@@ -21,8 +21,11 @@ author_profile: true
 <span style=""><strong>
 52th ACM International Symposium on Computer Architecture (ISCA)</strong>
 </span>
+<br>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+<br>
+<a href="../paper_files/ISCA2025_.pdf">[Paper]</a>
 
 ------
 
@@ -37,8 +40,11 @@ author_profile: true
 <span style=""><strong>
 52th ACM International Symposium on Computer Architecture (ISCA)</strong>
 </span>
+<br>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+<br>
+<a href="../paper_files/ISCA2025_ARTERY.pdf">[Paper]</a>
 
 ------
 
@@ -53,7 +59,10 @@ author_profile: true
 <span style=""><strong>
 62th ACM Design Automation Conference (DAC)</strong>
 </span>
+<br>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
+<br>
+<a href="../paper_files/DAC2025_DyREM.pdf">[Paper]</a> <a href="../slides_files/DAC2025_DyREM_PPT.pdf">[Slides]</a>
 
 ------
