@@ -25,7 +25,7 @@ author_profile: true
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
 <br>
-<a href="../paper_files/ISCA2025_.pdf">[Paper]</a>
+<a href="../paper_files/ISCA2025_Qtenon.pdf.pdf">[Paper]</a>
 
 ------
 
