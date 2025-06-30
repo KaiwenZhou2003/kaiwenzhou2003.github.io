@@ -15,6 +15,8 @@ My current research interests include Quantum Computer Architecture, Quantum Err
 News
 ------
 
++ **2025/06**: 🎉 I have presented our paper "DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator" at <strong>DAC 2025, San Francisco, USA</strong>. See <a href="../slides_files/DAC2025_DyREM_PPT.pdf">[Slides]</a>.
+
 + **2025/03**: 🎉 Two papers "ARTERY: Fast Quantum Feedback using Branch Prediction" and "Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing" have been accepted by **ISCA 2025**!
 
 + **2025/02**: 🎉 Our paper "DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator" has been accepted by **DAC 2025**!
