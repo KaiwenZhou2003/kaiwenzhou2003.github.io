@@ -14,6 +14,7 @@ My current research interests include Quantum Computer Architecture, Quantum Err
 
 News
 ------
++ **2025/07**: 🎉 Our paper "Vegapunk: Accurate and Fast Decoding for Quantum LDPC Codes with Online Hierarchical Algorithm and Sparse Accelerator" has been accepted by **MICRO 2025**!
 
 + **2025/06**: 🎉 I have presented our paper "DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator" at <strong>DAC 2025, San Francisco, USA</strong>. See <a href="../slides_files/DAC2025_DyREM_PPT.pdf">[Slides]</a>.
 

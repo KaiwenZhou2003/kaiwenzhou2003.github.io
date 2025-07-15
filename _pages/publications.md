@@ -8,6 +8,26 @@ author_profile: true
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ">my Google Scholar profile</a>.</u> -->
 
 # 2025
+
+------
+
+<code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>MICRO 2025</b></code>
+<a href="" style="color:rgb(74, 78, 82); "><strong>
+  Vegapunk: Accurate and Fast Decoding for Quantum LDPC Codes with Online Hierarchical Algorithm and Sparse Accelerator</strong>
+</a>
+<br>
+<span ><strong>Kaiwen Zhou</strong>, Liqiang Lu^, Debin Xiang, Chenning Tao, Anbang Wu, Jingwen Leng, Fangxin Liu, Mingshuai Chen, Jianwei Yin
+</span>
+<br>
+<span style="">
+58th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+</span>
+<br>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conference</b></code>
+<br>
+<a href="../paper_files/MICRO2025_Vegapunk.pdf">[Paper, Stay Tuned]</a>
+
 ------
 
 <code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>ISCA 2025</b></code>
