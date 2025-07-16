@@ -26,7 +26,7 @@ author_profile: true
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conference</b></code>
 <br>
-<a href="../paper_files/MICRO2025_Vegapunk.pdf">[Paper, Stay Tuned]</a>
+<a href="../paper_files/MICRO2025_Vegapunk.pdf">[Paper, Stay Tuned for Camera Ready]</a>
 
 ------
 
