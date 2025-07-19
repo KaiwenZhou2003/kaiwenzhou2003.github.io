@@ -31,7 +31,7 @@ author_profile: true
 ------
 
 <code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>ISCA 2025</b></code>
-<a href="" style="color:rgb(74, 78, 82); "><strong>
+<a href="https://dl.acm.org/doi/10.1145/3695053.3731087" style="color:rgb(74, 78, 82); "><strong>
   Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing</strong>
 </a>
 <br>
@@ -50,7 +50,7 @@ author_profile: true
 ------
 
 <code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>ISCA 2025</b></code>
-<a href="" style="color:rgb(74, 78, 82); "><strong>
+<a href="https://dl.acm.org/doi/10.1145/3695053.3731086" style="color:rgb(74, 78, 82); "><strong>
   ARTERY: Fast Quantum Feedback using Branch Prediction </strong>
 </a>
 <br>
