@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Kaiwen Zhou’s Homepage!"
+title: "Kaiwen Zhou｜周凯文"
 author_profile: true
 redirect_from: 
   - /about/
