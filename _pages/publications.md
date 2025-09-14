@@ -26,7 +26,7 @@ author_profile: true
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conference</b></code>
 <br>
-<a href="../paper_files/MICRO2025_Vegapunk.pdf">[Paper, Stay Tuned for Camera Ready.]</a>
+<a href="../paper_files/MICRO2025_Vegapunk.pdf">[Paper]</a>
 
 ------
 
@@ -39,7 +39,7 @@ author_profile: true
 </span>
 <br>
 <span style="">
-52th ACM International Symposium on Computer Architecture (ISCA)
+52nd ACM International Symposium on Computer Architecture (ISCA)
 </span>
 <br>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
@@ -58,7 +58,7 @@ author_profile: true
 </span>
 <br>
 <span style="">
-52th ACM International Symposium on Computer Architecture (ISCA)
+52nd ACM International Symposium on Computer Architecture (ISCA)
 </span>
 <br>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
@@ -77,7 +77,7 @@ author_profile: true
 </span>
 <br>
 <span style="">
-62th ACM Design Automation Conference (DAC)
+62nd ACM Design Automation Conference (DAC)
 </span>
 <br>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
