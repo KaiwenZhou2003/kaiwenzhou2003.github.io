@@ -77,7 +77,7 @@ author_profile: true
 </span>
 <br>
 <span style="">
-62nd ACM Design Automation Conference (DAC)
+62nd ACM/IEEE Design Automation Conference (DAC)
 </span>
 <br>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
