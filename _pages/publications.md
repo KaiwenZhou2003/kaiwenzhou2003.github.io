@@ -69,7 +69,7 @@ author_profile: true
 ------
 
 <code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>DAC 2025</b></code>
-<a href="" style="color:rgb(74, 78, 82); "><strong>
+<a href="https://ieeexplore.ieee.org/abstract/document/11132635" style="color:rgb(74, 78, 82); "><strong>
   DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator</strong>
 </a>
 <br>
