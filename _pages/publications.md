@@ -12,11 +12,11 @@ author_profile: true
 ------
 
 <code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>MICRO 2025</b></code>
-<a href="" style="color:rgb(74, 78, 82); "><strong>
+<a href="https://dl.acm.org/doi/10.1145/3725843.3756084" style="color:rgb(74, 78, 82); "><strong>
   Vegapunk: Accurate and Fast Decoding for Quantum LDPC Codes with Online Hierarchical Algorithm and Sparse Accelerator</strong>
 </a>
 <br>
-<span ><strong>Kaiwen Zhou</strong>, Liqiang Lu^, Debin Xiang, Chenning Tao, Anbang Wu, Jingwen Leng, Fangxin Liu, Mingshuai Chen, Jianwei Yin
+<span ><strong>Kaiwen Zhou</strong>, Liqiang Lu^, Debin Xiang, Chenning Tao, Anbang Wu, Jingwen Leng, Fangxin Liu, Mingshuai Chen, Jianwei Yin^
 </span>
 <br>
 <span style="">
@@ -26,7 +26,7 @@ author_profile: true
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conference</b></code>
 <br>
-<a href="../paper_files/MICRO2025_Vegapunk.pdf">[Paper]</a>
+<a href="../paper_files/MICRO2025_Vegapunk.pdf">[Paper]</a> <a href="../slides_files/MICRO2025_Vegapunk_Slides.pdf">[Slides]</a> <a href="../poster_files/MICRO2025_Vegapunk_Poster.pdf">[Poster]</a>
 
 ------
 
@@ -35,7 +35,7 @@ author_profile: true
   Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing</strong>
 </a>
 <br>
-<span >Chenning Tao, Liqiang Lu^, Size Zheng, Li-Wen Chang, Minghua Shen, Hanyu Zhang, Fangxin Liu, <strong>Kaiwen Zhou</strong>, Jianwei Yin
+<span >Chenning Tao, Liqiang Lu^, Size Zheng, Li-Wen Chang, Minghua Shen, Hanyu Zhang, Fangxin Liu, <strong>Kaiwen Zhou</strong>, Jianwei Yin^
 </span>
 <br>
 <span style="">
@@ -83,6 +83,6 @@ author_profile: true
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conference</b></code>
 <br>
-<a href="../paper_files/DAC2025_DyREM.pdf">[Paper]</a> <a href="../slides_files/DAC2025_DyREM_PPT.pdf">[Slides]</a>
+<a href="../paper_files/DAC2025_DyREM.pdf">[Paper]</a> <a href="../slides_files/DAC2025_DyREM_Slides.pdf">[Slides]</a> <a href="../poster_files/DAC2025_DyREM_Poster.pdf">[Poster]</a>
 
 ------

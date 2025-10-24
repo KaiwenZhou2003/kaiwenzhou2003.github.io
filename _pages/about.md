@@ -16,9 +16,11 @@ redirect_from:
 
 News
 ------
++ **2025/10**: 🎉 I have presented our paper "Vegapunk: Accurate and Fast Decoding for Quantum LDPC Codes with Online Hierarchical Algorithm and Sparse Accelerator" at <strong>MICRO 2025, Lotte Hotel Seoul, Korea</strong>. See <a href="../slides_files/MICRO2025_Vegapunk_Slides.pdf">[Slides]</a>.
+
 + **2025/07**: 🎉 Our paper "Vegapunk: Accurate and Fast Decoding for Quantum LDPC Codes with Online Hierarchical Algorithm and Sparse Accelerator" has been accepted by **MICRO 2025**!
 
-+ **2025/06**: 🎉 I have presented our paper "DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator" at <strong>DAC 2025, San Francisco, USA</strong>. See <a href="../slides_files/DAC2025_DyREM_PPT.pdf">[Slides]</a>.
++ **2025/06**: 🎉 I have presented our paper "DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator" at <strong>DAC 2025, San Francisco, USA</strong>. See <a href="../slides_files/DAC2025_DyREM_Slides.pdf">[Slides]</a>.
 
 + **2025/03**: 🎉 Two papers "ARTERY: Fast Quantum Feedback using Branch Prediction" and "Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing" have been accepted by **ISCA 2025**!
 
