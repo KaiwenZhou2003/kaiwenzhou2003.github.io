@@ -25,6 +25,8 @@ News
 
 Invited Talks
 ------
++ **2025/12**: 🎤 I have given a presentation titled "Artificial intelligence methods in quantum computing: Starting from quantum errors" at <strong>ZJU AI Talk, Zijingang Campus of Zhejiang University</strong>.
+
 + **2025/10**: 🎤 I have presented our paper "Vegapunk: Accurate and Fast Decoding for Quantum LDPC Codes with Online Hierarchical Algorithm and Sparse Accelerator" at <strong>MICRO 2025, Lotte Hotel Seoul, Korea</strong>. See <a href="../slides_files/MICRO2025_Vegapunk_Slides.pdf">[Slides]</a>.
 
 + **2025/06**: 🎤 I have presented our paper "DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator" at <strong>DAC 2025, San Francisco, USA</strong>. See <a href="../slides_files/DAC2025_DyREM_Slides.pdf">[Slides]</a>.
@@ -33,4 +35,5 @@ Invited Talks
 Academic Services
 ------
 * Journal Reviewer:
+  * ACM Transactions on Quantum Computing
   * Springer Nature, Quantum Machine Intelligence
