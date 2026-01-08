@@ -32,6 +32,11 @@ Invited Talks
 + **2025/06**: 🎤 I have presented our paper "DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator" at <strong>DAC 2025, San Francisco, USA</strong>. See <a href="../slides_files/DAC2025_DyREM_Slides.pdf">[Slides]</a>.
 
 
+Awards and Honors
+------
+* 2025, Student Travel Grant, MICRO
+
+
 Academic Services
 ------
 * Journal Reviewer:
