@@ -7,6 +7,27 @@ author_profile: true
 (^ denotes correspounding author.)
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ">my Google Scholar profile</a>.</u> -->
 
+# 2026
+
+------
+
+<code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>DAC 2026</b></code>
+<a href="#" style="color:rgb(74, 78, 82); "><strong>
+  SiTA: Exploiting Sparsity in Tensor-Product for Accelerating Quantum Readout Error Mitigation</strong>
+</a>
+<br>
+<span >Hanyu Zhang, Zhiwei Ye, Liqiang Lu^, <strong>Kaiwen Zhou</strong>, Fangxu Guo, Siwei Tan, Fangxin Liu, Size Zheng, Jianwei Yin
+</span>
+<br>
+<span style="">
+63rd ACM/IEEE Design Automation Conference (DAC)
+</span>
+<br>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conference</b></code>
+<br>
+<a href="../paper_files/DAC2026_SiTA.pdf">[Paper]</a> <a href="../slides_files/DAC2026_SiTA_Slides.pdf">[Slides]</a> <a href="../poster_files/DAC2026_SiTA_Poster.pdf">[Poster]</a>
+
 # 2025
 
 ------

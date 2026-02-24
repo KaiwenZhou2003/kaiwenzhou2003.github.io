@@ -16,6 +16,8 @@ redirect_from:
 
 News
 ------
++ **2026/02**: 🎉 Our paper "SiTA: Exploiting Sparsity in Tensor-Product for Accelerating Quantum Readout Error Mitigation" has been accepted by **DAC 2026**!
+
 + **2025/07**: 🎉 Our paper "Vegapunk: Accurate and Fast Decoding for Quantum LDPC Codes with Online Hierarchical Algorithm and Sparse Accelerator" has been accepted by **MICRO 2025**!
 
 + **2025/03**: 🎉 Two papers "ARTERY: Fast Quantum Feedback using Branch Prediction" and "Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing" have been accepted by **ISCA 2025**!
