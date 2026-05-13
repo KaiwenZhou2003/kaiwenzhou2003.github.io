@@ -26,7 +26,7 @@ author:
   name             : "Kaiwen Zhou"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ ACES Lab"
-  location         : "Xixi Campus (North)"
+  # location         : "Xixi Campus (North)"
   employer         : "Zhejiang University"
   uri              : # URL
   email            : "kaiwenzhou@zju.edu.cn" 
