@@ -24,7 +24,7 @@ author_profile: true
 </span>
 <br>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conference</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conference</b></code>
 <br>
 <a href="../paper_files/MICRO2026_TensorMLD.pdf">[Paper]</a> <a href="../slides_files/MICRO2026_TensorMLD_Slides.pdf">[Slides]</a> <a href="../poster_files/MICRO2026_TensorMLD_Poster.pdf">[Poster]</a>
 
