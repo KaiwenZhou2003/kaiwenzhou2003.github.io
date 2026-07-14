@@ -11,6 +11,23 @@ author_profile: true
 
 ------
 
+<code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>MICRO 2026</b></code>
+<a href="#" style="color:rgb(74, 78, 82); "><strong>
+  TensorMLD: A Tensorized and Compressed qLDPC Maximum-Likelihood Decoder for Accurate and Fast Detection of the Most Likely Logical Error</strong>
+</a>
+<br>
+<span >Debin Xiang, Liqiang Lu^, <strong>Kaiwen Zhou</strong>, Boyu Jin, Chenning Tao, Wuwei Tian, Anbang Wu, Fangxin Liu, Jingwen Leng, Minyi Guo, and Jianwei Yin
+</span>
+<br>
+<span style="">
+59th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+</span>
+<br>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conference</b></code>
+<br>
+<a href="../paper_files/MICRO2026_TensorMLD.pdf">[Paper]</a> <a href="../slides_files/MICRO2026_TensorMLD_Slides.pdf">[Slides]</a> <a href="../poster_files/MICRO2026_TensorMLD_Poster.pdf">[Poster]</a>
+
 <code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>DAC 2026</b></code>
 <a href="#" style="color:rgb(74, 78, 82); "><strong>
   SiTA: Exploiting Sparsity in Tensor-Product for Accelerating Quantum Readout Error Mitigation</strong>

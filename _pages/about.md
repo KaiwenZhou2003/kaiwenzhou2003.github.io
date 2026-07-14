@@ -16,6 +16,8 @@ redirect_from:
 
 News
 ------
++ **2026/07**: 🎉 Our paper "TensorMLD: A Tensorized and Compressed qLDPC Maximum-Likelihood Decoder for Accurate and Fast Detection of the Most Likely Logical Error" has been accepted by **MICRO 2026**!
+
 + **2026/02**: 🎉 Our paper "SiTA: Exploiting Sparsity in Tensor-Product for Accelerating Quantum Readout Error Mitigation" has been accepted by **DAC 2026**!
 
 + **2025/07**: 🎉 Our paper "Vegapunk: Accurate and Fast Decoding for Quantum LDPC Codes with Online Hierarchical Algorithm and Sparse Accelerator" has been accepted by **MICRO 2025**!
