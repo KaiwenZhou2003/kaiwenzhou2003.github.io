@@ -16,7 +16,7 @@ author_profile: true
   TensorMLD: A Tensorized and Compressed qLDPC Maximum-Likelihood Decoder for Accurate and Fast Detection of the Most Likely Logical Error</strong>
 </a>
 <br>
-<span >Debin Xiang, Liqiang Lu^, <strong>Kaiwen Zhou</strong>, Boyu Jin, Chenning Tao, Wuwei Tian, Anbang Wu, Fangxin Liu, Jingwen Leng, Minyi Guo, and Jianwei Yin
+<span >Liqiang Lu, Debin Xiang^, <strong>Kaiwen Zhou</strong>, Boyu Jin, Chenning Tao, Wuwei Tian, Anbang Wu, Fangxin Liu, Jingwen Leng, Minyi Guo, and Jianwei Yin
 </span>
 <br>
 <span style="">
