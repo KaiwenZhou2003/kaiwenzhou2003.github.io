@@ -29,7 +29,7 @@ author_profile: true
 <a href="../paper_files/MICRO2026_TensorMLD.pdf">[Paper]</a> <a href="../slides_files/MICRO2026_TensorMLD_Slides.pdf">[Slides]</a> <a href="../poster_files/MICRO2026_TensorMLD_Poster.pdf">[Poster]</a>
 
 <code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>DAC 2026</b></code>
-<a href="#" style="color:rgb(74, 78, 82); "><strong>
+<a href="https://dl.acm.org/doi/10.1145/3770743.3803943" style="color:rgb(74, 78, 82); "><strong>
   SiTA: Exploiting Sparsity in Tensor-Product for Accelerating Quantum Readout Error Mitigation</strong>
 </a>
 <br>
