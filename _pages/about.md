@@ -16,6 +16,8 @@ redirect_from:
 
 News
 ------
++ **2026/11**: 🎉 Our paper "ResQEC: A General Framework for Parallel and Accurate qLDPC Decoding with Residual Block" has been accepted by **HPCA 2027**!
+
 + **2026/07**: 🎉 Our paper "TensorMLD: A Tensorized and Compressed qLDPC Maximum-Likelihood Decoder for Accurate and Fast Detection of the Most Likely Logical Error" has been accepted by **MICRO 2026**!
 
 + **2026/02**: 🎉 Our paper "SiTA: Exploiting Sparsity in Tensor-Product for Accelerating Quantum Readout Error Mitigation" has been accepted by **DAC 2026**!

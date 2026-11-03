@@ -7,6 +7,29 @@ author_profile: true
 (^ denotes correspounding author.)
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ">my Google Scholar profile</a>.</u> -->
 
+# 2027
+
+------
+
+<code style="color: #ffffff; background-color:rgb(51, 98, 217); font-size: 1.01em;"><b>HPCA 2027</b></code>
+<a href="#" style="color:rgb(74, 78, 82); "><strong>
+  ResQEC: A General Framework for Parallel and Accurate qLDPC Decoding with Residual Block</strong>
+</a>
+<br>
+<span ><strong>Kaiwen Zhou</strong>, Liqiang Lu^, Debin Xiang, Chengjie Jia, and Jianwei Yin^
+</span>
+<br>
+<span style="">
+33rd IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+</span>
+<br>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conference</b></code>
+<br>
+<a href="../paper_files/HPCA2027_ResQEC.pdf">[Paper]</a> <a href="../slides_files/HPCA2027_ResQEC_Slides.pdf">[Slides]</a> <a href="../poster_files/HPCA2027_ResQEC_Poster.pdf">[Poster]</a>
+
+
+
 # 2026
 
 ------
